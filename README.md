@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Princeling 👋
 
-<!--
-**the-princeling/the-princeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my interesting projects are on my [other GitHub account](https://github.com/7orivorian).
 
-Here are some ideas to get you started:
+# Here's what I'm good at
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools
+
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://skillicons.dev/icons?i=idea,vscode,github,git,maven,gradle,postman,mongodb,heroku"> </a> </p>
+
+### 📜 Languages
+
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://skillicons.dev/icons?i=java,js,express,nodejs,html,css,scss,md"> </a> </p>
