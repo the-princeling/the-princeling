@@ -2,7 +2,7 @@
 
 Most of my interesting projects are on my [other GitHub account](https://github.com/7orivorian). I've also got a [beautiful website](https://princeling.dev) you should check out!
 
-# Here's some of what I'm good at 👇
+# 👇 Here's some of what I'm good at
 
 ### 🧰 Tools
 
@@ -18,4 +18,4 @@ Most of my interesting projects are on my [other GitHub account](https://github.
 
 ### 🖥️ OS
 
-<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl,linux&perline=7"></a></p>
+<p align="left"> <a href="https://github.com/7orivorian"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,wsl&perline=7"></a></p>
